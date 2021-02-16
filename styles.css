@@ -8,9 +8,13 @@ video {
   }
 
 #title{
+    background-image: url(./P1000718.JPG);
+    min-height: 60vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     text-align: center;
-    font-family: "DIN Next",sans-serif;
-    font-weight: 900;
+    font-weight: 1000;
     font-style: normal;
     text-transform: Uppercase;
     letter-spacing: 0.5em;
@@ -19,9 +23,8 @@ video {
 
 #text{
     text-align: justify;
-    font-family: "FF Meta Serif",serif;
-    color: white;
-    font-weight: 300;
+    color: black;
+    font-weight: 500;
     font-size: 1.125rem;
 }
 
