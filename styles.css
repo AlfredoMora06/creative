@@ -1,0 +1,38 @@
+video {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+
+#title{
+    text-align: center;
+    font-family: "DIN Next",sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-transform: Uppercase;
+    letter-spacing: 0.5em;
+    color:white;
+}
+
+#text{
+    text-align: justify;
+    font-family: "FF Meta Serif",serif;
+    color: white;
+    font-weight: 300;
+    font-size: 1.125rem;
+}
+
+.rte{
+    border: none;
+    font-family: "Fjalla One",sans-serif;
+    text-transform: Uppercase;
+    font-weight: 700;
+    font-size: 2rem;
+    color: #d02120;
+    font-style: normal;
+}
+
+
