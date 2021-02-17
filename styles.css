@@ -23,11 +23,16 @@
     font-family: "Fjalla One",sans-serif;
     text-transform: Uppercase;
     font-weight: 700;
-    font-size: 2rem;
+    font-size: 1.75rem;
     color: #d02120;
     font-style: normal;
     padding: 0;
     margin: 50px 0;
 }
 
-z
+.f--title {
+    font-family: "Fjalla One",sans-serif;
+    text-transform: Uppercase;
+    font-weight: 400;
+    letter-spacing: 0.20em;
+}
