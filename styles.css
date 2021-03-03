@@ -2,9 +2,7 @@
 
 #text{
     max-width: 500px;
-    margin: auto;
     text-align: justify;
-    padding-top: 50px;
     font-family: "FF Meta Serif",serif;
     color: #000;
     font-weight: 300;
@@ -19,8 +17,6 @@
     font-size: 1.75rem;
     color: #d02120;
     font-style: normal;
-    padding: 0;
-    margin: 50px 0;
 }
 /*Used for nothingness page
 */
