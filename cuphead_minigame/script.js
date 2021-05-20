@@ -12,10 +12,6 @@ let star6touched = false;
 let redtouched = false;
 
 
-let randx = Math.floor(Math.random() * 800);
-let randy = Math.floor(Math.random() * 450);
-
-
 
 //load images
 const images = {};
@@ -64,7 +60,7 @@ function animate() {
         time += 1;
         document.getElementById('countUP').innerHTML = time;
 
-        if (time >= 4000) {
+        if (time >= 5000) {
             if (starsTouched >= 3) {
                 console.log("vibecheck")
                 window.location.href = "good_ending.html"
